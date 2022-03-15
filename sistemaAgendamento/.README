@@ -1,0 +1,2 @@
+Sistema de agendamento criado ultilizando o padrão de projeto factory, banco mongoDB, ejs
+lib fullCallender para demonstrar em tela os agendamentos pendentes e conta com envio de email faltando uma hora para a consulta marcada.
